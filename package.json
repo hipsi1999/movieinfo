@@ -1,0 +1,23 @@
+{
+  "requires": true,
+  "lockfileVersion": 1,
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.1.2",
+    "express": "^4.17.1",
+    "path": "^0.12.7",
+    "request": "^2.88.2"
+  },
+  "name": "movieinfobyhipsi",
+  "version": "1.0.0",
+  "description": "My omdb page",
+  "engines": {
+    "node": "12.13.1"
+  },
+  "main": "omdb.js",
+  "scripts": {
+    "start": "node omdb.js"
+  },
+  "author": "Hipranshu <hipranshubargurjer@gmail.com>",
+  "license": "ISC"
+}
